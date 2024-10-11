@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_bootstrap_router_ghpages/static/css/main.9a5c6096.css",
+    "main.js": "/react_bootstrap_router_ghpages/static/js/main.53a0d873.js",
+    "static/js/453.ed3810f9.chunk.js": "/react_bootstrap_router_ghpages/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/react_bootstrap_router_ghpages/index.html",
+    "main.9a5c6096.css.map": "/react_bootstrap_router_ghpages/static/css/main.9a5c6096.css.map",
+    "main.53a0d873.js.map": "/react_bootstrap_router_ghpages/static/js/main.53a0d873.js.map",
+    "453.ed3810f9.chunk.js.map": "/react_bootstrap_router_ghpages/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.53a0d873.js"
+  ]
+}
