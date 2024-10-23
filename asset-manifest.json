@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_bootstrap_router_ghpages/static/css/main.57693c60.css",
-    "main.js": "/react_bootstrap_router_ghpages/static/js/main.8abc401c.js",
+    "main.css": "/react_bootstrap_router_ghpages/static/css/main.30d82a79.css",
+    "main.js": "/react_bootstrap_router_ghpages/static/js/main.8adab9ce.js",
     "static/js/453.ed3810f9.chunk.js": "/react_bootstrap_router_ghpages/static/js/453.ed3810f9.chunk.js",
     "index.html": "/react_bootstrap_router_ghpages/index.html",
-    "main.57693c60.css.map": "/react_bootstrap_router_ghpages/static/css/main.57693c60.css.map",
-    "main.8abc401c.js.map": "/react_bootstrap_router_ghpages/static/js/main.8abc401c.js.map",
+    "main.30d82a79.css.map": "/react_bootstrap_router_ghpages/static/css/main.30d82a79.css.map",
+    "main.8adab9ce.js.map": "/react_bootstrap_router_ghpages/static/js/main.8adab9ce.js.map",
     "453.ed3810f9.chunk.js.map": "/react_bootstrap_router_ghpages/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57693c60.css",
-    "static/js/main.8abc401c.js"
+    "static/css/main.30d82a79.css",
+    "static/js/main.8adab9ce.js"
   ]
 }
