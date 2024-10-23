@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_bootstrap_router_ghpages/static/css/main.05e63760.css",
-    "main.js": "/react_bootstrap_router_ghpages/static/js/main.a0d27f8d.js",
+    "main.css": "/react_bootstrap_router_ghpages/static/css/main.fb6f74a3.css",
+    "main.js": "/react_bootstrap_router_ghpages/static/js/main.8d73a9ec.js",
     "static/js/453.ed3810f9.chunk.js": "/react_bootstrap_router_ghpages/static/js/453.ed3810f9.chunk.js",
     "index.html": "/react_bootstrap_router_ghpages/index.html",
-    "main.05e63760.css.map": "/react_bootstrap_router_ghpages/static/css/main.05e63760.css.map",
-    "main.a0d27f8d.js.map": "/react_bootstrap_router_ghpages/static/js/main.a0d27f8d.js.map",
+    "main.fb6f74a3.css.map": "/react_bootstrap_router_ghpages/static/css/main.fb6f74a3.css.map",
+    "main.8d73a9ec.js.map": "/react_bootstrap_router_ghpages/static/js/main.8d73a9ec.js.map",
     "453.ed3810f9.chunk.js.map": "/react_bootstrap_router_ghpages/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05e63760.css",
-    "static/js/main.a0d27f8d.js"
+    "static/css/main.fb6f74a3.css",
+    "static/js/main.8d73a9ec.js"
   ]
 }
